@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/mirall/static/css/main.eb931041.chunk.css",
+    "main.js": "/mirall/static/js/main.175c7729.chunk.js",
+    "main.js.map": "/mirall/static/js/main.175c7729.chunk.js.map",
+    "runtime-main.js": "/mirall/static/js/runtime-main.7f36e73b.js",
+    "runtime-main.js.map": "/mirall/static/js/runtime-main.7f36e73b.js.map",
+    "static/js/2.edf49313.chunk.js": "/mirall/static/js/2.edf49313.chunk.js",
+    "static/js/2.edf49313.chunk.js.map": "/mirall/static/js/2.edf49313.chunk.js.map",
+    "index.html": "/mirall/index.html",
+    "precache-manifest.d1b5d6c16d6a0d8de1f45a8491ae8861.js": "/mirall/precache-manifest.d1b5d6c16d6a0d8de1f45a8491ae8861.js",
+    "service-worker.js": "/mirall/service-worker.js",
+    "static/css/main.eb931041.chunk.css.map": "/mirall/static/css/main.eb931041.chunk.css.map",
+    "static/js/2.edf49313.chunk.js.LICENSE.txt": "/mirall/static/js/2.edf49313.chunk.js.LICENSE.txt",
+    "static/media/artIcon.svg": "/mirall/static/media/artIcon.b3f451aa.svg",
+    "static/media/bigCircle.svg": "/mirall/static/media/bigCircle.85876ba2.svg",
+    "static/media/bigTriangle.svg": "/mirall/static/media/bigTriangle.d5961ad1.svg",
+    "static/media/designIcon.svg": "/mirall/static/media/designIcon.fe43d6a5.svg",
+    "static/media/dotGrid.svg": "/mirall/static/media/dotGrid.594694da.svg",
+    "static/media/entrepreneurshipIcon.svg": "/mirall/static/media/entrepreneurshipIcon.92c9970b.svg",
+    "static/media/fitnessIcon.svg": "/mirall/static/media/fitnessIcon.acb1942b.svg",
+    "static/media/homeBackground.png": "/mirall/static/media/homeBackground.d9d6bee5.png",
+    "static/media/kitchenIcon.svg": "/mirall/static/media/kitchenIcon.39e976e0.svg",
+    "static/media/legalIcon.svg": "/mirall/static/media/legalIcon.73beeff8.svg",
+    "static/media/lenguageIcon.svg": "/mirall/static/media/lenguageIcon.5913ccf4.svg",
+    "static/media/marketingIcon.svg": "/mirall/static/media/marketingIcon.cffa7eca.svg",
+    "static/media/middleTriangle.svg": "/mirall/static/media/middleTriangle.eb8651c1.svg",
+    "static/media/serviceSale.png": "/mirall/static/media/serviceSale.09b6af36.png",
+    "static/media/triangle.svg": "/mirall/static/media/triangle.0b1939e3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f36e73b.js",
+    "static/js/2.edf49313.chunk.js",
+    "static/css/main.eb931041.chunk.css",
+    "static/js/main.175c7729.chunk.js"
+  ]
+}
